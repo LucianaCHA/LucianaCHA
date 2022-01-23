@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucianaCHA \(◦'⌣'◦)/
-- I'm taking my first steps in this exciting world of programming and it's great!
-- I’m learning mainly the fundamentals of computer sciences, and the foundations of JS and C.
+- This are my first steps in this exciting world of programming and it's amazing!
+- I’m learning mainly the foundations of computer sciences, and of JS and C.
 - ヽ(^o^)ノI love reading, spend time with family and friends, and I really enjoy learning lenguages. Currently learning norwegian.
 
 <!---
