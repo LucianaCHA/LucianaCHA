@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @LucianaCHA \(◦'⌣'◦)/
-- This are my first steps in this exciting world of programming and it's amazing!
-- I’m learning mainly the foundations of computer sciences, and of JS and C.
-- ヽ(^o^)ノI love reading, spend time with family and friends, and I really enjoy learning lenguages. Currently learning norwegian.
+<h1> 👋 Hello there, I’m @LucianaCHA \(◦'⌣'◦)/</h1>
+
+I´m Luciana, pasionated about puzzles and  learning new stuff. That´s the key reason I came into software development and I just couldn´t leave! Such amazing field I wanted to learn as much as I can and apply that knowlegde to solve problems and make solutions for business. 
+
+So, I decided to study and in May 2022 I graduated from Henry´s Bootcamp as Full Stack Developer ! 
+
+At Henry academy I´ve learn many technologies wich were applied and integrated in my individual project : Pokemon App. Finally, for my graduation project I colaborated with 4 students designing and developing from 0 a full functional e-commerce : The Marvel Comics App .
+
+<h2 align=left> Currently working : </h2>
+<code><img width = 5% src="https://th.bing.com/th/id/OIP.-fRAOnCzeZvgIrI-aQweYgHaHa?pid=ImgDet&rs=1"></code>
+<p> ## 💙 In my portfolio wich will be public as soon as possible 💚 </p>
+
+
+## :star: Languages and Tools:
+
+<p>
+  <code><img width = 5% src='https://logospng.org/download/react/logo-react-1024.png'></code>
+  <code><img width = 5% src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png"></code>
+  <code><img width = 15% src="https://th.bing.com/th/id/OIP.mVkrBzAShy_muESW3_54oAHaC4?pid=ImgDet&rs=1"></code>
+  
+  
+</p>
 
 <!---
 LucianaCHA/LucianaCHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
