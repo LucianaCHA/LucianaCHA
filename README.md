@@ -2,7 +2,7 @@
 
 I´m Luciana, pasionated about puzzles and  learning new stuff. That´s the key reason I came into software development and I just couldn´t leave! Such amazing field I wanted to learn as much as I can and apply that knowlegde to solve problems and make solutions for business. 
 
-So, I decided to study and in May 2022 I graduated from Henry´s Bootcamp as Full Stack Developer ! 
+So, I decided to study and in May 2022 I've graduated from Henry´s Bootcamp as Full Stack Developer ! 
 
 At Henry academy I´ve learn many technologies wich were applied and integrated in my individual project : Pokemon App. Finally, for my graduation project I colaborated with 4 students designing and developing from 0 a full functional e-commerce : The Marvel Comics App .
 
