@@ -8,7 +8,7 @@ At Henry academy I´ve learn many technologies wich were applied and integrated 
 
 <h2 align=left> Currently working : </h2>
 <code><img width = 5% src="https://th.bing.com/th/id/OIP.-fRAOnCzeZvgIrI-aQweYgHaHa?pid=ImgDet&rs=1"></code>
-<p> ## 💙 In my portfolio wich will be public as soon as possible 💚 </p>
+<p> 💙 In my portfolio wich will be public as soon as possible 💚 </p>
 
 
 ## :star: Languages and Tools:
