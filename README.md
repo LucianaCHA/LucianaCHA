@@ -14,11 +14,24 @@ At Henry academy I´ve learn many technologies wich were applied and integrated 
 ## :star: Languages and Tools:
 
 <p>
+  <ul>
+<li>Javascript</li>
+    <li>React JS</li>
+    <li>Redux</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
   <code><img width = 5% src='https://logospng.org/download/react/logo-react-1024.png'></code>
   <code><img width = 5% src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png"></code>
   <code><img width = 15% src="https://th.bing.com/th/id/OIP.mVkrBzAShy_muESW3_54oAHaC4?pid=ImgDet&rs=1"></code>
   
   
+</p>
+
+## Connect with me:
+<p align="center">
+<li decoration-text= none ><a href="https://www.linkedin.com/in/luciana-chamorro/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Link a linkedinProfile" height="30" width="40" /></a></li>
+  <li text-decoration= none>📧 lucianachamorro87@gmail.com</li>
 </p>
 
 <!---
