@@ -1,4 +1,5 @@
-<h1> 👋 Hello there, I’m @LucianaCHA \(◦'⌣'◦)/</h1>
+
+<h1> 👋 Hello there, I’m @LucianaCHA \(◦'⌣'◦)/</h1> 
 
 I´m Luciana, pasionated about puzzles and  learning new stuff. That´s the key reason I came into software development and I just couldn´t leave! Such amazing field I wanted to learn as much as I can and apply that knowlegde to solve problems and make solutions for business. 
 
@@ -26,10 +27,16 @@ At Henry academy I´ve learn many technologies wich were applied and integrated 
   <code><img width = 15% src="https://th.bing.com/th/id/OIP.mVkrBzAShy_muESW3_54oAHaC4?pid=ImgDet&rs=1"></code>
   
   
+
 </p>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianaCHA&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Connect with me:
 <p align="center">
+
 <li decoration-text= none ><a href="https://www.linkedin.com/in/luciana-chamorro/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Link a linkedinProfile" height="30" width="40" /></a></li>
   <li text-decoration= none>📧 lucianachamorro87@gmail.com</li>
 </p>
