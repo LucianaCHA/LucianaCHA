@@ -7,16 +7,16 @@ So, I decided to study and in May 2022 I've graduated from Henry´s Bootcamp as 
 
 At Henry academy I´ve learn many technologies wich were applied and integrated in my individual project : Pokemon App. Finally, for my graduation project I colaborated with 4 students designing and developing from 0 a full functional e-commerce : The Marvel Comics App .
 
-<h2 align=left> Currently working : </h2>
-<code><img width = 5% src="https://th.bing.com/th/id/OIP.-fRAOnCzeZvgIrI-aQweYgHaHa?pid=ImgDet&rs=1"></code>
-<p> 💙 In improve practices with git-flow 💚 </p>
+<h2 align=left> Currently : </h2>
+<p> Happilly learning python basics 🤓!</p>
 
 
 ## :star: Languages and Tools:
 
 <p>
   <ul>
-<li>Javascript</li>
+    <li>Javascript</li>
+    <li>TypeScript</li>
     <li>React JS</li>
     <li>Redux</li>
     <li>HTML</li>
@@ -25,6 +25,7 @@ At Henry academy I´ve learn many technologies wich were applied and integrated 
   <code><img width = 5% src='https://logospng.org/download/react/logo-react-1024.png'></code>
   <code><img width = 5% src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png"></code>
   <code><img width = 15% src="https://th.bing.com/th/id/OIP.mVkrBzAShy_muESW3_54oAHaC4?pid=ImgDet&rs=1"></code>
+  <code><img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
   
   
 
