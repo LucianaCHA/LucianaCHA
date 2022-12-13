@@ -7,7 +7,8 @@ So, I decided to study and in May 2022 I've graduated from Henry´s Bootcamp as 
 
 At Henry academy I´ve learn many technologies wich were applied and integrated in my individual project : Pokemon App. Finally, for my graduation project I colaborated with 4 students designing and developing from 0 a full functional e-commerce : The Marvel Comics App .
 
-<h2 align=left> Currently : </h2>
+<h2 align=left> Currently : </h2>}
+<p> Working at FluxIt, an amazing company were I'm learning and improving my skills.
 <p> Happilly learning python basics 🤓!</p>
 
 
