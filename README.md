@@ -34,7 +34,7 @@ At Henry academy I´ve learn many technologies wich were applied and integrated 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianaCHA&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianaCHA&theme=radical&background=000000)](https://git.io/streak-stats)
 
 ## Connect with me:
 <p align="center">
