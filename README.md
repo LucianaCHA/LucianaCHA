@@ -13,7 +13,7 @@ Overall, my time at Henry's Bootcamp was an incredible experience that helped me
 
 <h2 align=left> Currently : </h2>
 <p> Working at <a href="https://www.fluxitsoft.com/en/">FluxIt</a>, an amazing company were I have the opportunity of apply my knowledge, keep learning and improving my skills.
-<p> Happilly learning python and basics 🤓!</p>
+<p> Happily working on my Python and react skills 🤓!</p>
 
 
 ## :star: Languages and Tools:
@@ -27,28 +27,46 @@ Overall, my time at Henry's Bootcamp was an incredible experience that helped me
     <li>Java</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Python</li>
 </ul>
-  <code><img width = 5% src='https://logospng.org/download/react/logo-react-1024.png'></code>
-  <code><img width = 5% src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png"></code>
-  <code><img width = 15% src="https://th.bing.com/th/id/OIP.mVkrBzAShy_muESW3_54oAHaC4?pid=ImgDet&rs=1"></code>
-  <code><img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-  <code><img width = 5% src="https://www.pinclipart.com/picdir/middle/539-5397283_java-logo-icon-png-clipart.png"></code>
+
+
+
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/20ae21d0-2073-414f-a1f4-42c55ac67c36' alt='html-logo'></code>
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/50feadcc-afc9-4b31-94b1-7c19099e4c48' alt='css-logo'></code>
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/06fc5b34-c960-43b9-8903-f06b83428a3c' alt='js-logo'></code>
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/aa4b33f7-7659-4b97-ac2f-9366f5565421' alt='ts-logo'></code>
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/749ba2bc-5e42-4848-8a8a-c11f48fc202e' alt='react-logo'></code>
+  <code><img width =70 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/c1532361-236f-4a84-b1c3-5ab10880be34' alt='redux-logo'></code>
+  <code><img width =60 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/87dc4fd8-91f8-41a7-9298-529321712c53' alt='java-logo'></code>
+  <code><img width =60 src='https://github.com/LucianaCHA/LucianaCHA/assets/76781967/57f5d465-9719-4475-84e1-8466adc15967' alt='python-logo' ></code>
+  
   
 
 </p>
 
 ### :fire: My Stats :
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianaCHA&theme=radical&background=000000)](https://git.io/streak-stats)
 
 ## Connect with me:
 <p align="center">
 
-<li decoration-text= none ><a href="https://www.linkedin.com/in/luciana-chamorro/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Link a linkedinProfile" height="30" width="40" /></a></li>
+<li >
+  <a href="https://www.linkedin.com/in/luciana-chamorro/" target="_blank">
+    <img align="center"src="https://img.icons8.com/bubbles/50/linkedin.png" alt="Link a linkedinProfile" height="70" width="70" />
+  </a>
+</li>
 
-<li decoration-text= none ><a href="mailto:lucianachamorro87@gmail.com?subject=hello from github!"> Send me an ✉️</a></li>
-
+<li >
+  <a href="mailto:lucianachamorro87@gmail.com?subject=hello from github!"> 
+    <img align="center" width="70" height="70" src="https://img.icons8.com/bubbles/50/apple-mail.png" alt="new-mail"/>
+  </a>
+</li>
 </p>
+Linkedin and email icons by <a target="_blank" href="https://icons8.com">Icons8</a> 
+
 
 <!---
 LucianaCHA/LucianaCHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
